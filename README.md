@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/images/logo.png" alt="Logo" width="15%">
+<img src="docs/images/LOGO.PNG" alt="Logo" width="15%">
 <h1>ABNamer</h1>
 <p>AI Batch, rename with a match</p>
 
