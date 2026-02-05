@@ -1,3 +1,5 @@
+> [!WARNING]
+> Because this project was written terribly, it has already been archived. The author is rewriting the project.
 <div align="center">
 
 <img src="docs/images/LOGO.PNG" alt="Logo" width="15%">
@@ -39,5 +41,3 @@ This project is licensed under the **Apache 2.0** License, you can learn more ab
 
 This is an experimental project by [Dragon Studio](https://dragonstudio.top).  
 Welcome to suggest and contribute to this project.
-
-This readme is modified from the RinUI readme.
